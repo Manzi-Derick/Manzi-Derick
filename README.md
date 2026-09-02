@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Murasira Manzi Derick 👋
+I'm a Software Developer passionate about building scalable, user-focused applications using modern web technologies.
 
-<!--
-**Manzi-Derick/Manzi-Derick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in creating responsive frontends, robust backend APIs, and efficient database architectures while following clean code and software engineering best practices.
 
-Here are some ideas to get you started:
+🔭 Currently building modern full-stack web applications
+🌱 Learning advanced system design and cloud technologies
+👯 Open to collaborating on impactful software projects
+🌍 Open to Remote Opportunities
+💡 Interested in Web Development, Software Architecture, and AI
+⚡ Fun Fact: Try and fail but never fail to try 🌟
+🌿 Lover of clean code, learning new things, and good vibes
+🌐 Connect With Me
+Email
+LinkedIn
+Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies & Tools
+Frontend:
+ReactJavaScriptHTML5CSS3Vite
+
+Backend & Databases:
+NodeJSPythonPHPMySQLPostgres
+
+Tools:
+GitGitHub
